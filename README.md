@@ -3,9 +3,9 @@ A python flask-based api to fetch its details scraped by product code in one exa
 
 ## Screenshots
 
-| Log In | Create an account | Authorized page |
-| -------|--------------|-----------------|
-| <img src="./screenshots/postman.png" width="200"> |
+| Postman Example |
+| -------|
+| <img src="./screenshots/postman.png" width="400"> |
 
 ## Running
 
